@@ -1,6 +1,6 @@
 # Raul Cerda
 # raul.cerda@csu.fullerton.edu
-# Project 3: Space Invaders
+# Project 4: Pacman Portal
 
 import pygame.font
 
