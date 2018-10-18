@@ -1,6 +1,10 @@
 # Raul Cerda
 # raul.cerda@csu.fullerton.edu
+<<<<<<< HEAD
 # Project 3: Pacman Portal
+=======
+# Project 4: Pacman Portal
+>>>>>>> 2d04abbec11a749ec582c0eda42b2265e8c7c6a1
 
 import pygame.font
 
