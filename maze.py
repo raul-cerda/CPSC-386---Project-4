@@ -1,3 +1,6 @@
+# Raul Cerda
+# raul.cerda@csu.fullerton.edu
+# Project 3: Pacman Portal
 import pygame
 import time
 from imageRect import Image
