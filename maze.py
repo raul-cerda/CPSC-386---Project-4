@@ -90,7 +90,7 @@ class Maze:
     def build(self):
         w, h = Maze.BRICK_SIZE, Maze.BRICK_SIZE
         dx, dy = self.deltax, self.deltay
-        self.fruit = Fruit(self.screen, self.stats.current_level)
+        self.fruit = Fruit(self.screen, self.stats.current_level % 9)
         self.fruits.add(self.fruit)
         for i in range(0, self.stats.lives):
             temp = Pacman(self.screen, self)
@@ -308,7 +308,8 @@ class Maze:
         collision = pygame.sprite.groupcollide(self.ghosts, self.active_ports, False, False)
         if collision:
             for ghost in collision:
-                if ghost.is_teleporting == 0 and self.blue_active and self.orange_active:
+                if ghost.is_teleporting == 0 and self.blue_active and self.orange_active \
+                        and self.stats.current_level > 9:
                     ghost.is_teleporting += 1
                     if collision[ghost][0].color == 0:
                         ghost.rect.centerx = self.oport.rect.centerx
