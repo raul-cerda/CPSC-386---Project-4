@@ -1,0 +1,58 @@
+                                                       
+                                                       
+                                                       
+                                                       
+                                                       
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  X                                                   X
+  X P . . . . . . . . . . . . . . . . . . . . . . . P X
+  X                                                   X
+  X . XXXXXXX . XXX . XXXXXXXXXXXXX . XXX . XXXXXXX . X
+  X   X     X   X X   X           X   X X   X     X   X
+  X . XXXXXXX . XXX . XXXXX   XXXXX . XXX . XXXXXXX . X
+  X                       X   X                       X
+  X . . . . . . . . . . . X   X . . . . . . . . . . . X
+  X                       X   X                       X
+  XXXXXXXXXXX . XXXXXXX . X   X . XXXXXXX . XXXXXXXXXXX
+            X   X     X   X   X   X     X   X          
+            X . X XXXXX . XXXXX . XXXXX X . X          
+            X   X X                   X X   X          
+            X . X X . . . . . . . . . X X . X          
+            X   X X                   X X   X          
+            X . X X . XXXXXSSSXXXXX . X X . X          
+            X   X X   X     1     X   X X   X          
+  XXXXXXXXXXX . XXX . X           X . XXX . XXXXXXXXXXX
+  XX                  X     2     X                  XX
+  XX B        . . . . X           X . . . .        O XX
+  XX                  X     3     X                  XX
+  XXXXXXXXXXX . XXX . X           X . XXX . XXXXXXXXXXX
+            X   X X   X     4     X   X X   X          
+            X . X X . XXXXXXXXXXXXX . X X . X          
+            X   X X                   X X   X          
+            X . X X . . . . . . . . . X X . X          
+            X   X X                   X X   X          
+            X . X X . XXXXXXXXXXXXX . X X . X          
+            X   X X   X           X   X X   X          
+  XXXXXXXXXXX . XXX . XXXXX   XXXXX . XXX . XXXXXXXXXXX
+  X                       X   X                       X
+  X . . . . . . . . . . . X   X . . . . . . . . . . . X
+  X                       X   X                       X
+  X . XXXXXXX . XXXXXXX . X   X . XXXXXXX . XXXXXXX . X
+  X   X     X   X     X   X   X   X     X   X     X   X
+  X P XXXXX X . XXXXXXX . XXXXX . XXXXXXX . X XXXXX P X
+  X       X X                               X X       X
+  X . . . X X .             M             . X X . . . X
+  X       X X                               X X       X
+  XXXXX . X X . XXX . XXXXXXXXXXXXX . XXX . X X . XXXXX
+      X   X X   X X   X           X   X X   X X   X    
+  XXXXX . XXX . X X . XXXXX   XXXXX . X X . XXX . XXXXX
+  X             X X       X   X       X X             X
+  X . . . . . . X X . . . X   X . . . X X . . . . . . X
+  X             X X       X   X       X X             X
+  X . XXXXXXXXXXX XXXXX . X   X . XXXXX XXXXXXXXXXX . X
+  X   X               X   X   X   X               X   X
+  X . XXXXXXXXXXXXXXXXX . XXXXX . XXXXXXXXXXXXXXXXX . X
+  X                                                   X
+  X . . . . . . . . . . . . . . . . . . . . . . . . . X
+  X                                                   X
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
